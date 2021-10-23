@@ -1,6 +1,9 @@
 ## Heyyo, I'm *Mahesh!  👋*                                                                   
 2nd Year, B.E Computer Engineering                                                    
-International Institute Of Information Technology, Pune, India      
+International Institute Of Information Technology, Pune, India  
+<p align="left">
+   <img src="https://komarev.com/ghpvc/?username=777ahesh&label=PROFILE+VIEWS&style=flat-plastic&color=brightgreen")
+</p>    
 
 ### Languages and Tools:
 
