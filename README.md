@@ -1,4 +1,4 @@
-## Heyyo, I'm *Mahesh!  👋*                                                                   
+## Heyyo, I'm *Mahesh!  <img src="https://raw.githubusercontent.com/777ahesh/777ahesh/main/wave.gif" width="30px">*                                                                   
 2nd Year, B.E Computer Engineering                                                    
 International Institute of Information Technology, Pune, India  
 <p align="left">
