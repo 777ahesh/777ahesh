@@ -14,10 +14,6 @@ International Institute of Information Technology, Pune, India
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-   
-
-
-
 
 ## Languages and Tools That I Use / Familiar With 🛠 
 <div align=right>
