@@ -1,16 +1,21 @@
 ## Heyyo, I'm *Mahesh!  <img src="https://raw.githubusercontent.com/777ahesh/777ahesh/main/wave.gif" width="30px">*                                                                   
 2nd Year, B.E Computer Engineering                                                    
 International Institute of Information Technology, Pune, India  
-<p align="left">
+<div>
    <img src="https://komarev.com/ghpvc/?username=777ahesh&label=PROFILE+VIEWS&style=flat-plastic&color=brightgreen")
-</p>    
-
+</div> 
+   
+<a href="https://www.linkedin.com/in/777ahesh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square"/></a>
+<a href="https://https://twitter.com/777aheshg/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=flat-square"/></a> <a href="https://https://dev.to/777ahesh"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&style=flat-square"/></a>
+<a href="https://www.codechef.com/users/mahesh7779/"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white&style=flat-square"/></a>
+<a href="https://www.hackerrank.com/gaikwadmahesh771/"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&style=flat-square"/></a>   
+   
 ## About Me
 
  <a href="https://github.com/777ahesh/github-readme-stats" title="Go to Source">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=777ahesh&hide=stars,issues&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
  </a>
-   
+
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
