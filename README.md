@@ -1,15 +1,27 @@
 ## Heyyo, I'm *Mahesh!  <img src="https://raw.githubusercontent.com/777ahesh/777ahesh/main/wave.gif" width="30px">*                                                                   
 2nd Year, B.E Computer Engineering                                                    
 International Institute of Information Technology, Pune, India  
-<div>
-   <img src="https://komarev.com/ghpvc/?username=777ahesh&label=PROFILE+VIEWS&style=flat-plastic&color=brightgreen")
-</div> 
-   
+
+<a href="https://github.com/777ahesh/github-readme-stats" title="Go to Source">
+      <img align="right" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=777ahesh&theme=dark"/>
+ </a>
+
+<a href="#"><img src="https://komarev.com/ghpvc/?username=777ahesh&label=PROFILE+VIEWS&style=flat-plastic&color=brightgreen"/></a> 
 <a href="https://www.linkedin.com/in/777ahesh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square"/></a>
-<a href="https://twitter.com/777aheshg/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=flat-square"/></a> 
 <a href="https://dev.to/777ahesh"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&style=flat-square"/></a>
-<a href="https://www.codechef.com/users/mahesh7779/"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white&style=flat-square"/></a>
-<a href="https://www.hackerrank.com/gaikwadmahesh771/"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&style=flat-square"/></a>   
+ <a href="https://www.codechef.com/users/mahesh7779/"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white&style=flat-square"/></a> <a href="https://www.hackerrank.com/gaikwadmahesh771/"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&style=flat-square"/></a>
+<br/><br/><br/><br/><br/>
+
+
+##  
+
+
+
+
+
+
+
+
    
 ## About Me
 
