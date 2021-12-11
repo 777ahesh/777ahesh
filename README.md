@@ -1,6 +1,6 @@
 ## Heyyo, I'm *Mahesh!  <img src="https://raw.githubusercontent.com/777ahesh/777ahesh/main/wave.gif" width="30px">*                                                                   
 2nd Year, B.E Computer Engineering                                                    
-International Institute of Information Technology, Pune, India  
+International Institute of Information Technology, Pune, India.  
 
 <a href="https://github.com/777ahesh/github-readme-stats" title="Go to Source">
       <img align="right" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=777ahesh&theme=dark"/>
