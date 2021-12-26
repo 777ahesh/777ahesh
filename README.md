@@ -13,16 +13,6 @@ International Institute of Information Technology, Pune, India.
 <br/><br/><br/><br/><br/>
 
 
-##  
-
-
-
-
-
-
-
-
-   
 ## About Me
 
  <a href="https://github.com/777ahesh/github-readme-stats" title="Go to Source">
