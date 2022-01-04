@@ -9,7 +9,10 @@ International Institute of Information Technology, Pune, India.
 <a href="#"><img src="https://komarev.com/ghpvc/?username=777ahesh&label=PROFILE+VIEWS&style=flat-plastic&color=brightgreen"/></a> 
 <a href="https://www.linkedin.com/in/777ahesh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square"/></a>
 <a href="https://dev.to/777ahesh"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&style=flat-square"/></a>
- <a href="https://www.codechef.com/users/mahesh7779/"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white&style=flat-square"/></a> <a href="https://www.hackerrank.com/gaikwadmahesh771/"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&style=flat-square"/></a>
+<a href="https://www.codechef.com/users/mahesh7779/"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white&style=flat-square"/></a>
+<a href="https://www.hackerrank.com/gaikwadmahesh771/"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&style=flat-square"/></a>
+<a href="https://leetcode.com/777ahesh/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white&style=flat-square"/></a>
+
 <br/><br/><br/><br/><br/>
 
 
