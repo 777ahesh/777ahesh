@@ -65,7 +65,6 @@ I am always open to collaborate on projects and innovative/distruptive ideas.
 ![Material-UI](https://img.shields.io/badge/-Material%E2%80%93UI-0081CB?style=flat-square&logo=material-ui&style=flat-square)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff&style=flat-square)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&style=flat-square)&nbsp;<br/><br/>
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff&style=flat-square)&nbsp;
 </div>
   
 <br/>
