@@ -1,26 +1,16 @@
 ## Heyyo, I'm *Mahesh!  <img src="https://raw.githubusercontent.com/777ahesh/777ahesh/main/wave.gif" width="40px">*                                                   
 
-
-<div align="center">       
+  <p align="left" width="300px">2nd Year, B.E Computer Engineering  <br/>                                                  
+        International Institute of Information Technology, Pune, India.
+        I am currently learning Full Stack Web development.
+        I am always open to collaborate on projects and innovative/distruptive ideas.  
+    </p>
     
-  <div >
-      <img  align="right" width=300 src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif" alt="image"/>
-       <br/>
-        
+  <div  align="center">
+    <div align="right"><br/><br/> <img align="right" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=777ahesh&theme=dark"/></div>
+     <div align="left"> <img align="left"  width=300 src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif" alt="image"/></div> 
    </div>  
   
-   
-<p align="left" width="300px">2nd Year, B.E Computer Engineering  <br/>                                                  
-International Institute of Information Technology, Pune, India. 
-I am currently learning Full Stack Web development.
-I am always open to collaborate on projects and innovative/distruptive ideas.  
-<br/> <br/>  
-<img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=777ahesh&theme=dark">
-
-</p>
-<br/> 
-</div>
-<br/><br/><br/><br/><br/><br/><br/>
 
 ## About Me <img width = 50px src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-office-worker_1f468-200d-1f4bc.png"/><a href="#"><img src="https://komarev.com/ghpvc/?username=777ahesh&label=PROFILE+VIEWS&style=flat-plastic&color=brightgreen"/></a> 
 
