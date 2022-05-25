@@ -1,6 +1,6 @@
 ## Heyyo, I'm *Mahesh!  <img src="https://raw.githubusercontent.com/777ahesh/777ahesh/main/wave.gif" width="40px">*                                                   
 
-  <p align="left" width="300px">2nd Year, B.E Computer Engineering  <br/>                                                  
+  <p align="left" width="300px">B.E Computer Engineering  <br/>                                                  
         International Institute of Information Technology, Pune, India.
         I am currently learning Full Stack Web development.
         I am always open to collaborate on projects and innovative/distruptive ideas.  
