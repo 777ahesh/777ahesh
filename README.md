@@ -2,7 +2,7 @@
 
   <p align="left" width="300px">B.E Computer Engineering  <br/>                                                  
         International Institute of Information Technology, Pune, India.
-        I am currently learning Full Stack Web development.
+        I am currentlyFull Stack Web developer.
         I am always open to collaborate on projects and innovative/distruptive ideas.  
     </p>
     
