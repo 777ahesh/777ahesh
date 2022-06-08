@@ -1,18 +1,26 @@
-## Heyyo, I'm *Mahesh!  <img src="https://raw.githubusercontent.com/777ahesh/777ahesh/main/wave.gif" width="40px">*                                                   
+## Heyyo, I'm *Mahesh!  <img src="https://raw.githubusercontent.com/777ahesh/777ahesh/main/wave.gif" width="40">*                                                   
 
-  <p align="left" width="300px">B.E Computer Engineering  <br/>                                                  
-        International Institute of Information Technology, Pune, India.
-        I am currentlyFull Stack Web developer.
-        I am always open to collaborate on projects and innovative/distruptive ideas.  
-    </p>
+
+<div align="center">       
     
-  <div  align="center">
-    <div align="right"><br/><br/> <img align="right" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=777ahesh&theme=dark"/></div>
-     <div align="left"> <img align="left"  width=300 src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif" alt="image"/></div> 
+  <div >
+      <img  align="right" width=300 src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif" alt="image"/>
    </div>  
   
+   
+<p align="left" width="300px">2nd Year, B.E Computer Engineering  <br/>                                                  
+International Institute of Information Technology, Pune, India. 
+I am currently learning Full Stack Web development.
+I am always open to collaborate on projects and innovative/distruptive ideas.  
+<br/> <br/>  
+<img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=777ahesh&theme=dark">
 
-## About Me <img width = 50px src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-office-worker_1f468-200d-1f4bc.png"/><a href="#"><img src="https://komarev.com/ghpvc/?username=777ahesh&label=PROFILE+VIEWS&style=flat-plastic&color=brightgreen"/></a> 
+</p>
+<br/> 
+</div>
+<br/><br/><br/><br/><br/><br/><br/>
+
+## About Me <img width = 50px src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-office-worker_1f468-200d-1f4bc.png"/>
 
  <a href="https://github.com/777ahesh/github-readme-stats" title="Go to Source">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=777ahesh&hide=stars,issues&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
@@ -25,7 +33,7 @@
 
 <br/><br/>
 
-## Languages and Tools That I Use / Familiar With <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> 
+## Languages and Tools That I Use / Familiar With <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"> 
 <div align=right>
   <br/>
     <a href="https://github.com/777ahesh/github-readme-stats">
@@ -55,6 +63,7 @@
 ![Material-UI](https://img.shields.io/badge/-Material%E2%80%93UI-0081CB?style=flat-square&logo=material-ui&style=flat-square)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff&style=flat-square)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&style=flat-square)&nbsp;<br/><br/>
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff&style=flat-square)&nbsp;
 </div>
   
 <br/>
