@@ -8,10 +8,10 @@
    </div>  
   
    
-<p align="left" width="300px">2nd Year, B.E Computer Engineering student at <br/>                                                  
-International Institute of Information Technology, Pune, India. 
-I am currently learning Full Stack Web development.
-I am always open to collaborate on projects and innovative/distruptive ideas.  
+<p align="left" width="300px">2ɴᴅ ʏᴇᴀʀ, ʙ.ᴇ ᴄᴏᴍᴘᴜᴛᴇʀ ᴇɴɢɪɴᴇᴇʀɪɴɢ ꜱᴛᴜᴅᴇɴᴛ ᴀᴛ<br/>                                                  
+    <b>ɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ ɪɴꜱᴛɪᴛᴜᴛᴇ ᴏꜰ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴛᴇᴄʜɴᴏʟᴏɢʏ, ᴘᴜɴᴇ, ɪɴᴅɪᴀ. </b>
+    ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ <b>ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ</b>.
+    ɪ ᴀᴍ ᴀʟᴡᴀʏꜱ ᴏᴘᴇɴ ᴛᴏ <b>ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ</b> ᴏɴ ᴘʀᴏᴊᴇᴄᴛꜱ ᴀɴᴅ ɪɴɴᴏᴠᴀᴛɪᴠᴇ/ᴅɪꜱᴛʀᴜᴘᴛɪᴠᴇ ɪᴅᴇᴀꜱ. 
 <br/> <br/>  
 <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=777ahesh&theme=dark">
 
