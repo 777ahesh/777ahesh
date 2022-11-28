@@ -61,6 +61,8 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white&style=flat-square)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=ffffff&style=flat-square)&nbsp;
 ![Material-UI](https://img.shields.io/badge/-Material%E2%80%93UI-0081CB?style=flat-square&logo=material-ui&style=flat-square)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-%231572B6?style=flat-square&logo=flutter&style=flat-square)&nbsp;
+![SvelteJs](https://img.shields.io/badge/-SvelteJs-white?style=flat-square&logo=svelte&style=flat-square)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff&style=flat-square)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&style=flat-square)&nbsp;<br/><br/>
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff&style=flat-square)&nbsp;
