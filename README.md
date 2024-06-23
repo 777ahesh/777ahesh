@@ -8,9 +8,9 @@
    </div>  
   
    
-<p align="left" width="300px">ʙ.ᴇ ᴄᴏᴍᴘᴜᴛᴇʀ ᴇɴɢɪɴᴇᴇʀɪɴɢ ꜱᴛᴜᴅᴇɴᴛ ᴀᴛ<br/>                                                  
+<p align="left" width="300px"><b>ʙ.ᴇ ᴄᴏᴍᴘᴜᴛᴇʀ ᴇɴɢɪɴᴇᴇʀɪɴɢ </b>ꜰʀᴏᴍ<br/>                                                  
     <b>ɪɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ ɪɴꜱᴛɪᴛᴜᴛᴇ ᴏꜰ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴛᴇᴄʜɴᴏʟᴏɢʏ, ᴘᴜɴᴇ, ɪɴᴅɪᴀ. </b>
-    ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ <b>ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ</b>.
+    ɪ'ᴍ ᴀ <b>ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ</b>.
     ɪ ᴀᴍ ᴀʟᴡᴀʏꜱ ᴏᴘᴇɴ ᴛᴏ <b>ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ</b> ᴏɴ ᴘʀᴏᴊᴇᴄᴛꜱ ᴀɴᴅ ɪɴɴᴏᴠᴀᴛɪᴠᴇ/ᴅɪꜱᴛʀᴜᴘᴛɪᴠᴇ ɪᴅᴇᴀꜱ. 
 <br/> <br/>  
 <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=777ahesh&theme=dark">
@@ -30,7 +30,7 @@
 - 📚 I’m currently learning some Frontend and Backend Libraries and Frameworks <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/smiling-face-with-halo_1f607.png" width=25px/>
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 -  <img width = 19px src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/star-struck_1f929.png"/> Participated in &nbsp; ![Hactoberfest](http://img.shields.io/badge/-Hactoberfest-FFA500?style=flat-square&Color=orange&style=flat-square) &nbsp; ![KWOC](http://img.shields.io/badge/-KWoC-blue?style=flat-square&Color=blue&style=flat-square) &nbsp; ![GSSOC](http://img.shields.io/badge/-GSSOC-yellow?style=flat-square&Color=blue&style=flat-square)
-- <img  width = 19px src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/rocket_1f680.png"/> Want to know more about me visit - https://maheshgaikwad.netlify.app
+- 🚀 Want to know more about me visit - https://maheshgaikwad.netlify.app
 - <img width = 19px src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/smiling-face-with-heart-eyes_1f60d.png"/> Do Try My **Vscode** Extension **Night Cyan** - https://marketplace.visualstudio.com/items?itemName=MaheshGaikwad.night-cyan &nbsp; 
 <br/><br/>
 
@@ -38,7 +38,7 @@
 <div align=right>
   <br/>
     <a href="https://github.com/777ahesh/github-readme-stats">
-      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=777ahesh&langs_count=20&theme=highcontrast&layout=compact&custom_title=Most used languages on GitHub" />
+      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=777ahesh&langs_count=20&theme=highcontrast&layout=compact&custom_title=Most%20used%20languages%20on%20GitHub" />
     </a>
 </div>
 
